@@ -22,7 +22,7 @@ Antes de executar o projeto, é necessário possuir:
 Clone o repositório e instale as dependências:
 
 bash
-git clone https://github.com/leticia-rsousa/protal-noticias-entrega4.git
+git clone https://github.com/leticia-rsousa/portal-noticias-entrega4.git
 cd portal-noticias
 npm install
 
